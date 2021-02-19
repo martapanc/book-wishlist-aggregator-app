@@ -93,7 +93,7 @@ export const WishList = [
     {
         "title": "A Threat of Shadows (The Keeper Chronicles, #1)",
         "author": "J.A.  Andrews",
-        "coverUrl": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467346323l/30821287._SY475_.jpg",
         "isbn13": null,
         "tags": [
             "Fiction"
@@ -103,7 +103,7 @@ export const WishList = [
     {
         "title": "A Winter's Child (An Oakenfall Chronicle #3)",
         "author": "Damien Tiller",
-        "coverUrl": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608247886l/56323958._SY475_.jpg",
         "isbn13": null,
         "tags": [
             "Fiction"
