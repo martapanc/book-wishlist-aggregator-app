@@ -3,12 +3,13 @@ import {Component} from "react/cjs/react.production.min";
 import Book from "./Book";
 
 import WishList from "../assets/list";
+import Table from "react-bootstrap/Table";
 
 class General extends Component {
 
     render() {
         return <div>
-            <table>
+            <Table striped bordered>
                 <thead>
                 <tr>
                     <th>Cover</th>
@@ -25,7 +26,7 @@ class General extends Component {
                     })
                 }
                 </tbody>
-            </table>
+            </Table>
         </div>
     }
 }
