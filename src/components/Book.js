@@ -4,8 +4,10 @@ class Book extends Component {
 
     render() {
         return <tr>
-            <td><img src={this.props.cover}/></td>
-            <td>{this.props.title}</td>
+            <td className="cover-col">
+                <img src={this.props.cover}/>
+            </td>
+            <td className="title-col">{this.props.title}</td>
             <td>{this.props.author}</td>
             <td>{this.props.tags}</td>
         </tr>

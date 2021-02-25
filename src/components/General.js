@@ -8,12 +8,12 @@ import Table from "react-bootstrap/Table";
 class General extends Component {
 
     render() {
-        return <div>
+        return <div className="general">
             <Table striped bordered>
                 <thead>
                 <tr>
-                    <th>Cover</th>
-                    <th width="800">Title</th>
+                    <th className="cover-col">Cover</th>
+                    <th className="title-col" width="800">Title</th>
                     <th>Author</th>
                     <th>Tags</th>
                 </tr>
