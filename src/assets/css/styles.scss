@@ -19,4 +19,9 @@ img {
 td.cover-col img {
   display:block;
   margin:auto;
+  max-height: 85px;
+}
+
+td.cover-col {
+  padding: 3px;
 }
